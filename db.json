@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" },
+    { "id": 2, "title": "json-server2", "author": "typicode2" },
+    { "title": "json-server 33", "author": "typicode 33", "id": 4 }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "zafer@gmail.com",
+      "password": "$2a$10$yBR9IJHFKhM0DNLmRL.rL.3JUc5lGyf3xl0kB0.fU07YectrLLc1m"
+    }
+  ]
+}
